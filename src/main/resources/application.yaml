@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:postgresql://localhost:5432/iwefollow
+    username: postgres
+    password: postgres
+    driver-class-name: org.postgresql.Driver

@@ -1,0 +1,13 @@
+package com.widia.iwefollow;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SirekapApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SirekapApplication.class, args);
+	}
+
+}
